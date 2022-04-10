@@ -163,7 +163,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <div class="fl_left">
       <ul class="nospace">
         <li><i class="fas fa-mobile-alt rgtspace-5"></i> 01090453033</li>
-        <li style="text-tranform:lowercase;"><i class="fas fa-envelope"></i> mohamedgamal7872@gmail.com</li>
+        <li style="text-transform:lowercase;"><i class="fas fa-envelope"></i> mohamedgamal7872@gmail.com</li>
       </ul>
     </div>
 
@@ -257,65 +257,8 @@ Licence URI: https://www.os-templates.com/template-terms
   </div>
   <!-- ################################################################################################ -->
 </div>
-<!-- End Top Background Image Wrapper -->
 
 
-<!-- End Top Background Image Wrapper -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row3">
-  <main class="hoc container clear"> 
-    <!-- main body -->
-    <!-- ################################################################################################ -->
-    <section id="introblocks">
-      <ul class="nospace group grid-3">
-        <li class="one_third">
-          <figure><a class="imgover" href="#"><img src="images/demo/348x220.png" alt=""></a>
-            <figcaption><a href="#">Aliquam faucibus</a></figcaption>
-          </figure>
-        </li>
-        <li class="one_third">
-          <figure><a class="imgover" href="#"><img src="images/demo/348x220.png" alt=""></a>
-            <figcaption><a href="#">Aliquam faucibus</a></figcaption>
-          </figure>
-        </li>
-        <li class="one_third">
-          <figure><a class="imgover" href="#"><img src="images/demo/348x220.png" alt=""></a>
-            <figcaption><a href="#">Aliquam faucibus</a></figcaption>
-          </figure>
-        </li>
-      </ul>
-    </section>
-    <!-- ################################################################################################ -->
-    <!-- / main body -->
-    <div class="clear"></div>
-  </main>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
-  <section class="hoc container clear"> 
-    <!-- ################################################################################################ -->
-    <figure class="one_half first">
-      <h6 class="heading">Ante fringilla nisl eu</h6>
-      <p class="btmspace-30">Gravida lorem ligula quis ligula pellentesque congue semper felis maecenas rutrum euismod nibh class aptent taciti.</p>
-      <ul class="nospace clear points">
-        <li><a href="#"><i class="fas fa-equals"></i></a>
-          <h6 class="heading">Sociosqu ad litora torquent</h6>
-          <p>Per conubia nostra per inceptos himenaeos mauris lectus enim luctus vitae viverra a pharetra mollis diam aliquam.</p>
-        </li>
-        <li><a href="#"><i class="fas fa-exclamation-circle"></i></a>
-          <h6 class="heading">Sociosqu ad litora torquent</h6>
-          <p>Per conubia nostra per inceptos himenaeos mauris lectus enim luctus vitae viverra a pharetra mollis diam aliquam.</p>
-        </li>
-      </ul>
-    </figure>
-    <div class="one_half last"><a class="imgover" href="#"><img src="images/demo/480x300.png" alt=""></a></div>
-    <!-- ################################################################################################ -->
-  </section>
-</div>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -376,111 +319,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper row2">
-  <section class="hoc container clear"> 
-    <!-- ################################################################################################ -->
-    <div class="sectiontitle">
-      <p class="nospace font-xs">Mollis eu commodo eu dui quisque</p>
-      <h6 class="heading">Ut ipsum vivamus tincidunt</h6>
-    </div>
-    <figure>
-      <figcaption class="center btmspace-50"><a href="#">Pharetra</a> / <a href="#">Imperdiet</a> / <a href="#">Suspendisse</a> / <a href="#">Potenti</a></figcaption>
-      <ul class="nospace group grid-3">
-        <li class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a></li>
-        <li class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a></li>
-        <li class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a></li>
-        <li class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a></li>
-        <li class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a></li>
-        <li class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a></li>
-      </ul>
-    </figure>
-    <!-- ################################################################################################ -->
-  </section>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
-  <section id="testimonials" class="hoc container clear"> 
-    <!-- ################################################################################################ -->
-    <article>
-      <figure><img src="images/demo/100x100.png" alt=""></figure>
-      <h6 class="heading font-x2">J. Doe</h6>
-      <em>Conubia nostra per inceptos</em>
-      <blockquote>Himenaeos curabitur feugiat etiam in enim sed felis interdum lobortis phasellus nec eros ut arcu sollicitudin pellentesque curabitur porta justo vitae molestie semper ligula enim sed felis interdum lobortis phasellus nec eros ut arcu sollicitudin pellentesque curabitur porta justo vitae molestie semper ligula.</blockquote>
-    </article>
-    <!-- ################################################################################################ -->
-  </section>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row2">
-  <section class="hoc container clear"> 
-    <!-- ################################################################################################ -->
-    <div class="sectiontitle">
-      <p class="nospace font-xs">Mollis eu commodo eu dui quisque</p>
-      <h6 class="heading">Ut ipsum vivamus tincidunt</h6>
-    </div>
-    <ul id="latest" class="nospace group sd-third">
-      <li class="one_third first">
-        <article>
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
-            <figcaption>
-              <h6 class="heading">Nisl nullam odio justo pharetra</h6>
-              <ul class="nospace meta clear">
-                <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
-                <li>
-                  <time datetime="2045-04-06T08:15+00:00">06 Apr 2045</time>
-                </li>
-              </ul>
-            </figcaption>
-          </figure>
-          <p>Et sagittis ac dignissim nec metus proin nunc maecenas vel nulla vivamus mattis massa vitae metus proin nunc maecenas vel nulla vivamus mattis massa vitae.</p>
-          <footer><a href="#">Read More</a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article>
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
-            <figcaption>
-              <h6 class="heading">Nisl nullam odio justo pharetra</h6>
-              <ul class="nospace meta clear">
-                <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
-                <li>
-                  <time datetime="2045-04-05T08:15+00:00">05 Apr 2045</time>
-                </li>
-              </ul>
-            </figcaption>
-          </figure>
-          <p>Et sagittis ac dignissim nec metus proin nunc maecenas vel nulla vivamus mattis massa vitae metus proin nunc maecenas vel nulla vivamus mattis massa vitae.</p>
-          <footer><a href="#">Read More</a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article>
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
-            <figcaption>
-              <h6 class="heading">Nisl nullam odio justo pharetra</h6>
-              <ul class="nospace meta clear">
-                <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
-                <li>
-                  <time datetime="2045-04-04T08:15+00:00">04 Apr 2045</time>
-                </li>
-              </ul>
-            </figcaption>
-          </figure>
-          <p>Et sagittis ac dignissim nec metus proin nunc maecenas vel nulla vivamus mattis massa vitae metus proin nunc maecenas vel nulla vivamus mattis massa vitae.</p>
-          <footer><a href="#">Read More</a></footer>
-        </article>
-      </li>
-    </ul>
-    <!-- ################################################################################################ -->
-  </section>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
+
 
 <!-- Bottom Background Image Wrapper -->
 <div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');"> 
@@ -572,6 +411,8 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
+
+
 <!-- JAVASCRIPTS -->
 <script src="layout/scripts/jquery.min.js"></script>
 <script src="layout/scripts/jquery.backtotop.js"></script>

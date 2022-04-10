@@ -10,29 +10,8 @@
 </head>
 <body >
 
-  <h1>testr</h1>
-  @if(5>2)
-
-
-   <h3>mmmmmmmm</h3>
+ <div>{{$details['title']}}</div>
  
-@endif
-
-@hasSection('content')
-   @yield('content')
-
- 
-   @else
-
-   <p> dont has section</p>
-   
-   @endif
-
-@foreach($arr as $arr1)
-
-   <p>{{$arr1}}</p>
-
-   @endforeach
 
 
 <main class="py-4">

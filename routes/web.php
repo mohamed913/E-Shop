@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\MyTestController;
+use App\Http\Controllers\Myhomeprofile\MyTestController ;
 use Illuminate\Support\Facades\Auth;
 
 
@@ -33,19 +33,22 @@ Route::get('/gemy/{id}', function ($id) {
 //route to home
 //the 'prefix'=>'myhomeprofile' to the route 
 // the 'namespace'=>'myhomeprofile' to the directory of MyHomeController
-//Route::group(['prefix'=>'myhomeprofile','namespace'=>'myhomeprofile' , /*'middleware'=>'auth'*/],function(){
+
+
+Route::group([ 'prefix'=>'myhomeprofile',  /*'middleware'=>'auth'*/],function(){
 
 //Route::get('myhome','MyyHomeController@homePage');
+Route::get('testr', [MyTestController::class, 'test1']);
 
 
-//});
+});
 
 
 
 
 //Route::resource('testr','App\Http\Controllers\MyTestController');
 
-Route::get('testr', [MyTestController::class, 'test1']);
+////////////////////Route::get('myhomeprofile/testr', [MyTestController::class, 'test1']);
 
 
 
