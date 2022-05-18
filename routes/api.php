@@ -2,6 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Myhomeprofile\MyTestController ;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,3 +18,12 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+
+Route::group([ 'prefix'=>'myhomeprofile',  'middleware'=>['api', 'checkpass' ]  ],function(){
+
+  //  Route::get('cat','MyyHomeController@homePage');
+   Route::post('cat', [MyTestController::class, 'test2']);
+    
+    
+    });

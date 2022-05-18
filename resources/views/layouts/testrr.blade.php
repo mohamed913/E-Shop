@@ -28,11 +28,7 @@
    
    @endif
 
-@foreach($arr as $arr1)
 
-   <p>{{$arr1}}</p>
-
-   @endforeach
 
 
 <main class="py-4">

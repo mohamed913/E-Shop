@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 
 
+
 class MyHomeController extends Controller
 {
     //
@@ -23,4 +24,5 @@ class MyHomeController extends Controller
         
        return view('layouts.testrr');
     }
+   
 }
