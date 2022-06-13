@@ -14,22 +14,23 @@ class MyTestController extends Controller
     
     public function exper()
     {
+         $arr=['name'=>'gemy','age'=>'28'];
         
         $categories = Category::all();
-        return view('categories.category')->with('categories',$categories);
+        return view('categories.category')->with(['categories'=>$categories,'arr'=>$arr]);
     }
        public function test1()
        {
           
-         /*  $arr=[];
+        /*  $arr=[];
            $arr['m']='mohamed';
            $arr['g']='gamal';
            $arr['c']='mahmoud';
 
-        return view('objective')->with('arr',$arr);*/
+        return view('categories.category')->with('arr',$arr);*/
 
         $users=User::get();
-        return response()->json($users);
+      return response()->json($users);
         
        }
 

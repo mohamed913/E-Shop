@@ -43,6 +43,17 @@ Auth::routes(['verify'=>true]);//this to do authentiaction it written by default
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home')->middleware('verified');//this route is to get the login and register page
 
 
+Route::get('dd',function(){
+
+    return view('email.mailuser');
+
+});
+
+
+
+
+
+
 
 
 

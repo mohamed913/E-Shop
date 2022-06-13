@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Myhomeprofile\MyTestController ;
 use App\Http\Controllers\MyHomeController ;
+use App\Http\Controllers\AdminController;
 use Illuminate\Support\Facades\Auth;
 
 
@@ -16,6 +17,18 @@ use Illuminate\Support\Facades\Auth;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+
+
+
+
+//Route::get('/', function () {
+ // return view('index');
+//});
+
+Route::get('/{page}', [AdminController::class,'index']);
+
+
 
 
 Route::get('/admin', function(){

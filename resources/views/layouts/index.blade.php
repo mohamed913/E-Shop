@@ -48,7 +48,7 @@ Licence URI: https://www.os-templates.com/template-terms
             Language
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <!--this code to retrive all my languages as alinks  in the nav bar -->
+            <!--this code to retreive all my languages as alinks  in the nav bar -->
         @foreach(LaravelLocalization::getSupportedLocales() as $localeCode => $properties)
         <li class="nav-item"> 
             <a class="dropdown-item" rel="alternate" hreflang="{{ $localeCode }}" href="{{ LaravelLocalization::getLocalizedURL($localeCode, null, [], true) }}">
@@ -57,6 +57,9 @@ Licence URI: https://www.os-templates.com/template-terms
         </li>
     @endforeach
           </ul>
+        </li>
+        <li class="nav-item">
+        <i class="fa-solid fa-message"></i><span class="notifications">9</span>
         </li>
       
       </ul>
